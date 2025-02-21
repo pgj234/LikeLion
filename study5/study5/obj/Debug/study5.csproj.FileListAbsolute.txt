@@ -1,0 +1,7 @@
+C:\LikeLion_Study\LikeLion\study5\study5\bin\Debug\study5.exe.config
+C:\LikeLion_Study\LikeLion\study5\study5\bin\Debug\study5.exe
+C:\LikeLion_Study\LikeLion\study5\study5\bin\Debug\study5.pdb
+C:\LikeLion_Study\LikeLion\study5\study5\obj\Debug\study5.csproj.AssemblyReference.cache
+C:\LikeLion_Study\LikeLion\study5\study5\obj\Debug\study5.csproj.CoreCompileInputs.cache
+C:\LikeLion_Study\LikeLion\study5\study5\obj\Debug\study5.exe
+C:\LikeLion_Study\LikeLion\study5\study5\obj\Debug\study5.pdb

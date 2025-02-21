@@ -27,10 +27,11 @@ namespace study3
             string charName = "Park";       // 캐릭터 이름 : Park
             char grade = 'S';               // 등급 : S
 
-            Console.WriteLine(hp);
-            Console.WriteLine(atk);
-            Console.WriteLine(charName);
-            Console.WriteLine(grade);
+            Console.WriteLine("캐릭터");
+            Console.WriteLine("체력 : " + hp);
+            Console.WriteLine("공격력 : " + atk);
+            Console.WriteLine("캐릭터이름 : " + charName);
+            Console.WriteLine("등급 : " + grade);
         }
     }
 }
