@@ -10,6 +10,10 @@ namespace LikeLion_1
     {
         static void Main(string[] args)
         {
+            int age;
+            age = 31;
+
+            Console.WriteLine(age);
         }
     }
 }
