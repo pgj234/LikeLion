@@ -1,0 +1,7 @@
+C:\LikeLion_Study\LikeLion\project(대장장이 키우기)\project(대장장이 키우기)\bin\Debug\project(대장장이 키우기).exe.config
+C:\LikeLion_Study\LikeLion\project(대장장이 키우기)\project(대장장이 키우기)\bin\Debug\project(대장장이 키우기).exe
+C:\LikeLion_Study\LikeLion\project(대장장이 키우기)\project(대장장이 키우기)\bin\Debug\project(대장장이 키우기).pdb
+C:\LikeLion_Study\LikeLion\project(대장장이 키우기)\project(대장장이 키우기)\obj\Debug\project(대장장이 키우기).csproj.AssemblyReference.cache
+C:\LikeLion_Study\LikeLion\project(대장장이 키우기)\project(대장장이 키우기)\obj\Debug\project(대장장이 키우기).csproj.CoreCompileInputs.cache
+C:\LikeLion_Study\LikeLion\project(대장장이 키우기)\project(대장장이 키우기)\obj\Debug\project(대장장이 키우기).exe
+C:\LikeLion_Study\LikeLion\project(대장장이 키우기)\project(대장장이 키우기)\obj\Debug\project(대장장이 키우기).pdb
