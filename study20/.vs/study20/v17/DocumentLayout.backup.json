@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion_Study\\LikeLion\\study20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{013FE835-49D0-477A-845C-9651F0F9360E}|study20\\study20.csproj|c:\\likelion_study\\likelion\\study20\\study20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013FE835-49D0-477A-845C-9651F0F9360E}|study20\\study20.csproj|solutionrelative:study20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion_Study\\LikeLion\\study20\\study20\\Program.cs",
+              "RelativeDocumentMoniker": "study20\\Program.cs",
+              "ToolTip": "C:\\LikeLion_Study\\LikeLion\\study20\\study20\\Program.cs",
+              "RelativeToolTip": "study20\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:05:17.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

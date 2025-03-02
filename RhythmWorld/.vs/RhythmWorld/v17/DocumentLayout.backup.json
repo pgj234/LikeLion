@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion_Study\\LikeLion\\RhythmWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5888EBC-A7DA-4599-8404-637546BB960E}|RhythmWorld\\RhythmWorld.csproj|c:\\likelion_study\\likelion\\rhythmworld\\rhythmworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5888EBC-A7DA-4599-8404-637546BB960E}|RhythmWorld\\RhythmWorld.csproj|solutionrelative:rhythmworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion_Study\\LikeLion\\RhythmWorld\\RhythmWorld\\Program.cs",
+              "RelativeDocumentMoniker": "RhythmWorld\\Program.cs",
+              "ToolTip": "C:\\LikeLion_Study\\LikeLion\\RhythmWorld\\RhythmWorld\\Program.cs",
+              "RelativeToolTip": "RhythmWorld\\Program.cs",
+              "ViewState": "AgIAANACAAAAAAAAAAAAAPoCAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:37:32.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

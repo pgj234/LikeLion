@@ -1,0 +1,7 @@
+C:\LikeLion_Study\LikeLion\inventory\inventory\bin\Debug\inventory.exe.config
+C:\LikeLion_Study\LikeLion\inventory\inventory\bin\Debug\inventory.exe
+C:\LikeLion_Study\LikeLion\inventory\inventory\bin\Debug\inventory.pdb
+C:\LikeLion_Study\LikeLion\inventory\inventory\obj\Debug\inventory.csproj.AssemblyReference.cache
+C:\LikeLion_Study\LikeLion\inventory\inventory\obj\Debug\inventory.csproj.CoreCompileInputs.cache
+C:\LikeLion_Study\LikeLion\inventory\inventory\obj\Debug\inventory.exe
+C:\LikeLion_Study\LikeLion\inventory\inventory\obj\Debug\inventory.pdb
